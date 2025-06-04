@@ -1,7 +1,7 @@
+import appid from './appId'
 import './style.css'
 import AgoraRTC from "agora-rtc-sdk-ng"
 
-import appid from '../appId.js'
 
 const token = null
 const rtcUid =  Math.floor(Math.random() * 2032)

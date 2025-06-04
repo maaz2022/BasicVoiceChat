@@ -1,0 +1,3 @@
+const appid = "f2b8fe1585814cac8e11faa8e6eaea4f"
+
+export default appid;
